@@ -34,7 +34,7 @@ setup(
         # These are optional dependencies that will change the
         # behavior of the application or add new features if installed.
         "gui": [  # GUI dependencies
-            "PySide6==6.7.0",
+            "PySide6==6.9.0",
             "PySide6_Addons==6.7.0",
             "PySide6_Essentials==6.7.0",
         ],
